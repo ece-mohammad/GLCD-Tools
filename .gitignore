@@ -1,7 +1,11 @@
 venv*
-venv/*
 .idea*
 .idea/*
+media
 *.png
 *.jpeg
 *.jpg
+*.bmp
+*.bin
+*.h
+*.c
