@@ -9,3 +9,5 @@ media
 *.bin
 *.h
 *.c
+*.gif
+*.tiff
