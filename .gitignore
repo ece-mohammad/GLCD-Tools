@@ -1,7 +1,7 @@
 venv*
-.idea*
 .idea/*
 media
+*.egg-info
 *.png
 *.jpeg
 *.jpg
